@@ -6,4 +6,4 @@ A game that tests your typing speed! Protect the cities by destroying the letter
 Above shows images of when letters are being destroyed(image 1) and after some cities are being destroyed(image 2).
 
 Notice:
-This program requires a Java Applet to run. The applet extension is currently deprecated, so I recommend running it with Java version 8 or 7. Program inished in 2020.
+This program requires a Java Applet to run. The applet extension is currently deprecated, so I recommend running it with Java version 8 or 7. Program finished in 2020.
